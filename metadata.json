@@ -1,0 +1,6 @@
+{
+  "name": "ShortsCraft AI",
+  "description": "AI YouTube Shorts & Reels video creator with automated script writing, TTS speech narration, 9:16 vertical video player, viral karaoke captions, visual themes, and export studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
